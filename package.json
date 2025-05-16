@@ -7,6 +7,10 @@
   "engines": {
     "vscode": "^1.100.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daviesdevyt/xcodetime.git"
+  },
   "categories": [
     "Other"
   ],
